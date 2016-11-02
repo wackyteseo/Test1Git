@@ -19,7 +19,7 @@ namespace Test1Git
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Test1 ");
+            MessageBox.Show("Test1  ");
         }
     }
 }
